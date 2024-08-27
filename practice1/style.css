@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+html,body{
+    height:100%;
+    width: 100%;
+    background-color: black;
+}
+.box1{
+    height: 250px;
+    width: 250px;
+    background-color: crimson;
+}
+.box2{
+    height: 250px;
+    width: 250px;
+    background-color:yellow;
+}
